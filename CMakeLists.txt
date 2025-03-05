@@ -1,8 +1,8 @@
-# filepath: /C:/Users/pedro/Desktop/code/Ray-Tracing-One-Weekend/CMakeLists.txt
 cmake_minimum_required(VERSION 3.10)
 
 # Nombre del proyecto
 project(RayTracingOneWeekend)
+
 
 # Establecer el estándar de C++
 set(CMAKE_CXX_STANDARD 11)
